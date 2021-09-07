@@ -14,4 +14,4 @@ patchesStrategicMerge:
 - overlays/argocd-repo-server-deploy.yaml
 - https://raw.githubusercontent.com/argoproj-labs/argocd-notifications/v1.1.1/catalog/install.yaml
 #- overlays/discord_notification.yaml
-#- overlays/webhook_notification.yaml
+- overlays/webhook_notification.yaml
