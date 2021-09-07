@@ -4,3 +4,4 @@ metadata:
   name: argocd-cm
 data:
   kustomize.version.v4.2.0: /custom-tools/kustomize_4_2_0
+  foo: bar
