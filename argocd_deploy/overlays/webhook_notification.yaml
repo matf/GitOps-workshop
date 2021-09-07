@@ -7,7 +7,7 @@ data:
   context: |
     myUsername: "Jane Doe" # ADD HERE YOUR USERNAME
   service.webhook.webhook-site: |
-    url: "" # ADD HERE YOUR URL
+    url: "https://webhook.site/70a7b081-ea61-4611-b424-542f2b3f6cc4"
     headers:
     - name: Content-Type
       value: application/json
